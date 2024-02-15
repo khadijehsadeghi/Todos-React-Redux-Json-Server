@@ -19,8 +19,9 @@ Backend
 2. Run project and run mock json-server first
 
    > npm run dev
-  Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-3. Enjoy
+  
+3. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+4. Enjoy
 
 ## Learn More
 
