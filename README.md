@@ -1,6 +1,6 @@
 # Build TODO App with Redux and React JS
 
-![Uploading Capture.JPG…]()
+![capture](https://github.com/khadijehsadeghi/Todos-React-Redux-Json-Server/assets/140825672/bbacba8e-7483-43e3-abdc-b84a3e8f4ea5)
 
 Welcome, this is a todo list project using the following technologies;
 
