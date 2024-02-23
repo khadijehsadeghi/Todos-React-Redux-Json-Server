@@ -1,5 +1,7 @@
 # Build TODO App with Redux and React JS
 
+![Uploading Capture.JPG…]()
+
 Welcome, this is a todo list project using the following technologies;
 
 Frontend
