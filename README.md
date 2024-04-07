@@ -1,6 +1,8 @@
 # Build TODO App with Redux and React JS
 
-![capture](https://github.com/khadijehsadeghi/Todos-React-Redux-Json-Server/assets/140825672/bbacba8e-7483-43e3-abdc-b84a3e8f4ea5)
+https://github.com/khadijehsadeghi/Todos-React-Redux-Json-Server/assets/140825672/ef2ec07a-6bc4-4ba8-9027-23af72576fd4
+
+
 
 Welcome, this is a todo list project using the following technologies;
 
